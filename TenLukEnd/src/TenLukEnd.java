@@ -1,7 +1,7 @@
 public class TenLukEnd {
 
     public static void main(String[] args) {
-
+//test comment
         int[] num = {1, 0, 12, 30, 0, 4, 9, 0, 7, 0, 8, 5, 0};
         int[] numRes = zeroMax(num);
 
